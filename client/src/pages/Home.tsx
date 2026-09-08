@@ -1,8 +1,8 @@
 import { useMemo, useState } from "react";
 import { Heart, Sparkles, ArrowDown, RotateCcw } from "lucide-react";
 
-const COLLAGE = "/manus-storage/prinm-collage_8f483dc8.jpg";
-const PORTRAIT = "/manus-storage/prinm-portrait_9430efac.jpg";
+const COLLAGE = "/assets/prinm-collage.jpg";
+const PORTRAIT = "/assets/prinm-portrait.jpg";
 
 const heartSymbols = ["♥", "♡", "✦", "♥", "♡", "✧", "♥", "♡", "✦", "♥", "♡", "♥", "✧", "♡", "♥", "✦", "♡", "♥"];
 
